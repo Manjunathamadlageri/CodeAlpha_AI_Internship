@@ -2,7 +2,7 @@
 # CodeAlpha_AI_Internship 🤖
 
 > **CodeAlpha Artificial Intelligence Internship** — Tasks 1 & 2  
-> Submitted by **Manjunath Amad Lageri**  
+> Submitted by **Manjunath Madlageri**  
 > M.Tech AI & Data Science — MVJ College of Engineering, Bengaluru
 
 ---
@@ -130,7 +130,7 @@ CodeAlpha_AI_Internship/
 
 ## 👤 Author
 
-**Manjunath Amad Lageri**  
+**Manjunath Madlageri**  
 🎓 M.Tech AI & Data Science — MVJ College of Engineering  
 🔗 GitHub: [github.com/Manjunathamadlageri](https://github.com/Manjunathamadlageri)  
 📍 Bengaluru, India
